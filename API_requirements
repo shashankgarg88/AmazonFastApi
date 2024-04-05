@@ -1,0 +1,6 @@
+1. API To bulk update products
+2. API to update individual product
+3. API to generate dump of the all the products with product markup fieldsin excel
+4. API to upload Product MARkup data bulk
+5. API to update product markup for a single product
+6. Add a flag to delete the record in the bulk upload excel api. records marked should be deleted.

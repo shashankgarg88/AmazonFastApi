@@ -1,0 +1,7 @@
+fastapi[all]
+requests
+sqlalchemy==1.4.46
+pandas==1.5.3
+openpyxl
+jinja2
+python-multipart
